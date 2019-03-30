@@ -1,5 +1,5 @@
 # FeatureSwap
-a demo built with OpenCV and dlib to implement feature swaping in faces
+a demo built with OpenCV and dlib to implement facial feature swaping in faces
 
 
 # How to run?
